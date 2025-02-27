@@ -103,7 +103,7 @@ h3{
 .learning-typing p{
     text-align: justify;
     padding-right: 30px;
-    font-size: 18px;
+    font-size: 16px;
     margin-left: 20px;
 }
 .learning-typing img{
@@ -121,7 +121,7 @@ h3{
 .computer-training p{
     text-align: justify;
     padding-right: 10px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .cyber-security{
     text-align: justify;
@@ -133,7 +133,7 @@ h3{
 .cyber-security p{
     text-align: justify;
     padding-right: 10px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .web-development{
     text-align: justify;    
@@ -144,7 +144,7 @@ h3{
 .web-development p{
     text-align: justify;
     padding-right: 10px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .about{
     display: flex;
